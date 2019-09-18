@@ -1,0 +1,28 @@
+#a {
+	width: 240px;
+	height: 60px;
+	margin: 0 auto;
+	margin-top: 40vh;
+	font-size: 30px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.menu {
+	width: 240px;
+	height: 60px;
+	margin: 0 auto;
+	font-size: 30px;
+	line-height: 60px;
+	text-align: center;
+}
+
+#b {
+	width: 120px;
+	float: left;
+}
+
+#c {
+	width: 120px;
+	margin: 0 auto;
+}
