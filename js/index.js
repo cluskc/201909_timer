@@ -1,5 +1,5 @@
 
-var counter = setInterval(Gogogo,1000);
+var counter = setInterval(Gogogo,500);
 var a = 0;
 function Gogogo() {
 	a = a + 1;
